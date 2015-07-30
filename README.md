@@ -2,6 +2,8 @@
 
 Requires Unity 4.5.5 or higher.
 
+On the Asset Store - https://www.assetstore.unity3d.com/en/#!/content/24876
+
 Over 800 extension methods for Unity and general C# development. Methods were submitted by the Unity community, gleaned from third party websites, and developed by me during my game development career.
 
 Tested on these platforms: PC, Mac, Android, iOS, WP8, and Web Player. Should work on all Unity supported platforms.
